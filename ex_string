@@ -1,0 +1,25 @@
+Faça um programa que pede para o usuário digitar uma palavra e imprima cada letra em uma linha.
+
+Faça um programa que pede para o usuário digitar uma palavra e cria uma nova string igual, copiando letra por letra, depois imprima a nova string.
+
+Altere o exercício anterior para que a string copiada alterne entre letras maiúsculas e minúsculas
+Exemplo: se o usuário digitar "latex" o programa deve imprimir "LaTeX".
+
+Faça um programa que pede para o usuário digitar uma palavra e cria uma nova string igual, porém com espaço entre cada letra, depois imprima a nova string:
+Ex: se o usuário digitar "python" o programa deve imprimir "p y t h o n "
+
+Faça uma função que receba uma string e retorne uma nova string substituindo:
+'a' por '4'
+'e' por '3'
+'I' por '1'
+'t' por '7'
+
+Faça uma função que recebe uma string e retorna ela ao contrário.
+Exemplo: recebe "teste" retorna "etset"
+
+Agora faça uma função que recebe uma palavra e diz se ela é um palíndromo, ou seja, se ela é igual a ela mesma ao contrário.
+Dica: use a função do exercício 6.
+
+Faça uma função que receba um texto é uma palavra, então verifique se a palavra está no texto e retorne True ou False.
+
+Faça uma função que receba um string que contém tanto números quanto letras e caracteres especiais, e que separe as letras em uma variável e os números em outra (os caracteres especiais podem ser descartados). Ao final a função deve imprimir as duas variáveis
